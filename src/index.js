@@ -62,4 +62,11 @@ saludar(nombre);
 //ejecutamos: git add .
 //git commit -m "doc creado"
 //git push
-//
+//Actualizamos el navegador del repositorio para ver los cambios
+//Regresamos nuestro repositorio en la parte de Github Pages
+//seleccionamos primero el "main"
+//en automatico se habilita las opciones del combo box para seleccionar la carpeta
+//docs
+//por ultimo damos clic en save
+//luego damos clic en el link creado pero primeramente es probable que antes debamos
+//refrescar nuevamente la pagina, posteriormente podemos dar clic
