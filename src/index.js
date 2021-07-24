@@ -45,3 +45,21 @@ saludar(nombre);
 //git add .
 //git commit -m "Readme creado"
 //git push
+//Otro servicio que ofrece Github es un hosting gratuito para publicar paginas web
+//mediante el uso de HTML, CSS y JavaScript
+//Nos vamos a settings
+//Nos ubicamos en Github Pages
+//dar clic en "Check it out here!"
+//la carpeta que nos interesa publicar es "dist", ya que ahi se encuentra nuestro
+//proyecto ya finalizado y ofuscado y listo para ser publicado
+//Para ello Github requiere que renombremos el archivo dist en "docs"
+//ejecutamos npm run build para reconstruir nuestro proyecto de desarrollo
+//para su produccion
+//ejecutamos: git status
+//El cual nos indica que hay un nuevo archivo que no se le esta dando seguimiento
+//Por lo tanto ejecutamos nuevamente los siguientes comandos para subirlo a nuestro
+//repositorio:
+//ejecutamos: git add .
+//git commit -m "doc creado"
+//git push
+//
